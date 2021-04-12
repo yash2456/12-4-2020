@@ -1,0 +1,30 @@
+.charts {
+  display: flex;
+    justify-content: center;
+   
+  }
+.btncls {
+   /* border-bottom: 1px solid blue; */
+   background: none;
+   box-shadow: none;
+   cursor: pointer;
+   
+  }
+  .chartclass{
+    margin-top: 100px;
+  }
+  .clsCurrentTotal{
+    color: #30357e;
+  }
+  .clsPercentageGreen{
+    color: #2bd26b;
+  }
+  .clsPercentageRed{
+    color: #eb0c0c;
+  }
+  .percla{
+    margin-top: 20px;
+  }
+  .active{
+    border-bottom: 4px solid #427ad5;  
+  }
